@@ -32,5 +32,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-joao.p.goncalves11@aluno.senai.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.p.goncalves11@aluno.senai.br)](mailto:joao.p.goncalves11@aluno.senai.br)
-[![GitHub](https://img.shields.io/github/followers/JP-mirandaG?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/JP-mirandaG?label=follow&style=social)]((https://github.com/JP-mirandaG))
 
