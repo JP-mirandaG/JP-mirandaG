@@ -26,7 +26,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-miranda-7089b4367/" alt="LinkedIn"/></a>
   <a href="#" title="Discord">
-  <img src="https://img.shields.io/badge/-Discord-DF0174?style=flat-square&labelColor=DF0174&logo=Discord&logoColor=white&link=https://discord.com/channels/@me" alt="Discord"/></a>
+  <img src="https://img.shields.io/badge/-Discord-DF0174?style=flat-square&labelColor=000000&logo=Discord&logoColor=white&link=https://discord.com/channels/@me" alt="Discord"/></a>
 </p>
   
 
