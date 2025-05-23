@@ -10,7 +10,7 @@
 
 **Aplicações e dados**
 
-![HTML](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 
